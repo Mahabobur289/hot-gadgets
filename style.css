@@ -1,1 +1,49 @@
+.pic:hover{
+    background-color: orange;
+    padding: 10px 5px 10px 5px;
+    border-radius: 5px;
+    
+}
+.background{
+    background-image: url(Categories/top-banner.png);
+    background-repeat: no-repeat;
+}
+body{
+    margin: 0;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.Buy{
+    background-image: linear-gradient(white , orange);
+    padding: 10px 15px;
+    border-radius: 3px;
+    border: none;
+    color:black;
+    font-weight: bold;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.Right{
+   
+   color: orange;
 
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.text{
+    text-align: center;
+    color: orange;
+    
+    padding-bottom: 15px; 
+    border-bottom-style: solid; 
+            border-bottom-width: 3.1px; 
+            
+}
+.container{
+    margin-bottom: 100px;
+}
